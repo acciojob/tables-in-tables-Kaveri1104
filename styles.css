@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+.nested_table{
+	background-color:#efefef;
+	display:flex;
+	justify-content:center;
+}
+table{
+	border:1px  solid black;
+}
+#fRow{
+	background-color:black;
+	color:white;
+	margin:2px;
+	text-align:center
+}
+td{
+	border:1px solid black;
+}
+th{
+	border:1px solid black;
+}
